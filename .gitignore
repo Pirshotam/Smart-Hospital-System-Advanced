@@ -1,0 +1,18 @@
+# local database file (created automatically when you run the app on your computer)
+frontend/data/
+*.db
+*.db-wal
+*.db-shm
+
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.streamlit/secrets.toml
