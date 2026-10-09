@@ -17,7 +17,7 @@ Need -> Search -> Capacity check -> Smart match -> Referral (bed held 15 min) ->
 4. *(Advanced settings)* pick Python 3.12 or 3.13. **No secrets are needed.**
 5. **Deploy.** The first start takes a few seconds longer while the demo database is created.
 
-# Live Deployed App
+## Live Deployed App
 link: https://smart-hospital-system-advanced-7ugkdvfzw8rp2mueqxtmmt.streamlit.app
 
 ## Run on your computer
